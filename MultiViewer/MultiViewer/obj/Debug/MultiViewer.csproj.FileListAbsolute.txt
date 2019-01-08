@@ -1,0 +1,11 @@
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\MultiViewer.csproj.GenerateResource.cache
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\MultiViewer.csproj.CoreCompileInputs.cache
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\bin\Debug\MultiViewer.exe.config
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\bin\Debug\MultiViewer.exe
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\bin\Debug\MultiViewer.pdb
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\bin\Debug\MultiViewer.exe.CodeAnalysisLog.xml
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\bin\Debug\MultiViewer.exe.lastcodeanalysissucceeded
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\MultiViewer.Properties.Resources.resources
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\MultiViewer.exe
+C:\Users\pejol\source\repos\PictureViewer\PictureViewer\obj\Debug\MultiViewer.pdb
